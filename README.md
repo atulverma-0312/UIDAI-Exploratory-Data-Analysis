@@ -77,18 +77,6 @@ Three CSV datasets were merged into a single dataset.
 - Improve geographical data accuracy.
 - Use district-level insights for better resource allocation.
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/YOUR-USERNAME/UIDAI-Aadhaar-Enrollment-Analysis.git
-
-cd UIDAI-Aadhaar-Enrollment-Analysis
-
-pip install pandas numpy matplotlib seaborn jupyter
-
-jupyter notebook
-```
-
 ## 📁 Project Structure
 
 ```text
