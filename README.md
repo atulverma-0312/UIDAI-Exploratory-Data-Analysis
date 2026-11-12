@@ -22,15 +22,17 @@ Using Python-based data analytics, the project explores age-group distributions,
 - Generate actionable insights for improving enrollment accessibility.
 
 ## 📊 Dataset
+The original dataset consists of three CSV files containing 1,006,029 records in total.
 
+After combining the files, the analysis is restricted to Bihar and Uttar Pradesh.
 Three CSV datasets were merged into a single dataset.
 
 | Dataset | Records |
 |---|---:|
-| Dataset 1 | 22,745 |
-| Dataset 2 | 23,017 |
-| Dataset 3 | 6,029 |
-| **Total** | **51,791** |
+| **Total Records** | **1,006,029** |
+| Uttarpradesh Records| 110,369 |
+| Bihar Records | 60,567 |
+| **Selected Records** | **170,936** |
 
 **Key Features:**
 - Date
@@ -40,7 +42,7 @@ Three CSV datasets were merged into a single dataset.
 - Age 0–5
 - Age 5–17
 - Age 18 and above
-
+- **Date Range**:March-December 2025.
 ## 🛠️ Tech Stack
 
 - **Python** – Programming and analysis
