@@ -22,10 +22,10 @@ Using Python-based data analytics, the project explores age-group distributions,
 - Generate actionable insights for improving enrollment accessibility.
 
 ## 📊 Dataset
-The original dataset consists of three CSV files containing 1,006,029 records in total.
-
-After combining the files, the analysis is restricted to Bihar and Uttar Pradesh.
 Three CSV datasets were merged into a single dataset.
+
+The original dataset consists of three CSV files containing 1,006,029 records in total.
+After combining the files, the analysis is restricted to Bihar and Uttar Pradesh.
 
 | Dataset | Records |
 |---|---:|
